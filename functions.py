@@ -1,8 +1,6 @@
-## Final Course Project - Autonomous Driving Simulation
+## Final Project - Autonomous Driving Simulation
 
 ## Sujai Rajan
-
-## CS-6140 Machine Learning
 
 
 # Importing the libraries
@@ -425,4 +423,5 @@ def plot_results(history):
     print('Training and Validation Loss Plotted\n')
 
     
+
 
