@@ -1,7 +1,6 @@
 # Final Project
 
 # Author: Sujai Rajan
-# CS-6140 Machine Learning
 
 # Description: This file is used to train the model using the dataset generated from the simulator.
 
@@ -94,6 +93,7 @@ print('Results Plotted\n')
 # Step 12 - Saving the plot
 plt.savefig('mac_win_results.png')
 print('Results Saved\n')
+
 
 
 
